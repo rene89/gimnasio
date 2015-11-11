@@ -1,0 +1,42 @@
+[
+  {
+    "sesion_id": 1, 
+    "alumno_id": 1, 
+    "distancia": 80, 
+    "peso": 46.935099999999998, 
+    "calorias": 80, 
+    "latidos": 90
+  }, 
+  {
+    "sesion_id": 2, 
+    "alumno_id": 2, 
+    "distancia": 90, 
+    "peso": 69.9816, 
+    "calorias": 80, 
+    "latidos": 90
+  }, 
+  {
+    "sesion_id": 3, 
+    "alumno_id": 3, 
+    "distancia": 80, 
+    "peso": 40.032200000000003, 
+    "calorias": 40, 
+    "latidos": 80
+  }, 
+  {
+    "sesion_id": 4, 
+    "alumno_id": 4, 
+    "distancia": 70, 
+    "peso": 84.585700000000003, 
+    "calorias": 40, 
+    "latidos": 70
+  }, 
+  {
+    "sesion_id": 5, 
+    "alumno_id": 5, 
+    "distancia": 90, 
+    "peso": 85.538200000000003, 
+    "calorias": 40, 
+    "latidos": 80
+  }
+]
