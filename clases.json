@@ -1,0 +1,78 @@
+[
+  
+{
+    
+"nombre": "spinning",
+ "fecha": "2015-07-11", 
+        
+"instructor_id": 1
+  
+}, 
+  
+{
+    
+"nombre": "pilates", 
+    
+"fecha": "2015-11-05", 
+     
+    
+"instructor_id": 2
+  
+}, 
+  
+{
+    
+"nombre": "crossfit", 
+    
+"fecha": "2015-02-18", 
+     
+    
+"instructor_id": 3
+  
+}, 
+  
+{
+    
+"nombre": "crossfit", 
+    
+"fecha": "2015-03-11", 
+     
+    
+"instructor_id": 4
+  
+}, 
+  
+{
+    
+"nombre": "spinning", 
+    
+"fecha": "2015-10-17", 
+     
+    
+"instructor_id": 5
+  
+}, 
+  
+{
+    
+"nombre": "zumba", 
+    
+"fecha": "2015-03-11", 
+     
+    
+"instructor_id": 6
+  
+}, 
+  
+{
+    
+"nombre": "zumba", 
+    
+"fecha": "2015-01-14", 
+     
+    
+"instructor_id": 7
+  
+}
+
+]
