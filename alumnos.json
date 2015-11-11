@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nombre": "Washington",
+    "apellido": "Jarvis",
+    "edad": 32,
+    "telefono": "+58 (819) 551-3397",
+    "email": "washingtonjarvis@martgo.com",
+    "sexo": "F",
+    "peso": 41.57
+  },
+  {
+    "id": 2,
+    "nombre": "Ramos",
+    "apellido": "Ratliff",
+    "edad": 35,
+    "telefono": "+58 (974) 471-2309",
+    "email": "ramosratliff@martgo.com",
+    "sexo": "M",
+    "peso": 71.87
+  },
+  {
+    "id": 3,
+    "nombre": "Day",
+    "apellido": "Miles",
+    "edad": 25,
+    "telefono": "+58 (932) 457-3764",
+    "email": "daymiles@martgo.com",
+    "sexo": "F",
+    "peso": 55.32
+  },
+  {
+    "id": 4,
+    "nombre": "Shepard",
+    "apellido": "Knight",
+    "edad": 40,
+    "telefono": "+58 (926) 543-2110",
+    "email": "shepardknight@martgo.com",
+    "sexo": "M",
+    "peso": 70.81
+  },
+  {
+    "id": 5,
+    "nombre": "Bender",
+    "apellido": "Page",
+    "edad": 38,
+    "telefono": "+58 (990) 514-2115",
+    "email": "benderpage@martgo.com",
+    "sexo": "F",
+    "peso": 80.62
+  },
+  {
+    "id": 6,
+    "nombre": "Sophia",
+    "apellido": "Nolan",
+    "edad": 30,
+    "telefono": "+58 (847) 551-3482",
+    "email": "sophianolan@martgo.com",
+    "sexo": "F",
+    "peso": 51.47
+  },
+  {
+    "id": 7,
+    "nombre": "Sallie",
+    "apellido": "Patel",
+    "edad": 37,
+    "telefono": "+58 (991) 550-3938",
+    "email": "salliepatel@martgo.com",
+    "sexo": "F",
+    "peso": 96.97
+  },
+  {
+    "id": 8,
+    "nombre": "Skinner",
+    "apellido": "Conway",
+    "edad": 20,
+    "telefono": "+58 (980) 529-2835",
+    "email": "skinnerconway@martgo.com",
+    "sexo": "F",
+    "peso": 79.42
+  }
+ 
+]
